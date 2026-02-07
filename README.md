@@ -95,7 +95,7 @@ Each folder contains:
 
 ### How to Follow or Use This Repo
 1. Clone:  
-   `git clone https://github.com/yourusername/RHCSA-Study-Labs.git`
+   `git clone https://github.com/cloudliness/RHCSA-Study-Labs.git`
 2. Browse folders for each topic.
 3. Reproduce labs in your own RHEL 10 VM environment.
 4. Use my notes/scripts as a reference **after** attempting tasks yourself.
