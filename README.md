@@ -1,5 +1,5 @@
 # RHCSA-study-labs
-Follow my journey as I study to earn my RHCSA Certificate in 2026!!
+Follow my journey as I study to earn my RHCSA Certificate in 2026!
 
 # RHCSA Study Journey & Labs (RHEL 10)
 
