@@ -1,0 +1,6 @@
+ll same as ls -l
+
+ls -l | more - to scroll page by page
+ls =l | tail -1 - to show the last file or directory
+
+ls -ltr
