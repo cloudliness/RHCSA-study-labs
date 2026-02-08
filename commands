@@ -4,3 +4,7 @@ ls -l | more - to scroll page by page
 ls =l | tail -1 - to show the last file or directory
 
 ls -ltr
+
+mkdir folder - makes a folder
+rm filename - removes file
+mv filename - renames
