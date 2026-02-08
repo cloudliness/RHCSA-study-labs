@@ -8,3 +8,8 @@ ls -ltr
 mkdir folder - makes a folder
 rm filename - removes file
 mv filename - renames
+
+3 types of help commands:
+whatis - command - example - whatis chmod
+--help - command - example - chmod --help
+man - command - example - man chmod
