@@ -13,3 +13,11 @@ mv filename - renames
 whatis - command - example - whatis chmod
 --help - command - example - chmod --help
 man - command - example - man chmod
+
+introduction to text editor - vi
+i - insert
+esc - escape
+r - replace
+d - delete
+:q! - quit without saving
+:wq! - quit and save
