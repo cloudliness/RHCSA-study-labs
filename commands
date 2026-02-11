@@ -23,3 +23,8 @@ d - delete
 :wq! - quit and save
 
 USER ACCOUNT MANAGEMENT:
+commands:
+useradd
+groupadd
+userdel
+groupdel
