@@ -21,3 +21,5 @@ r - replace
 d - delete
 :q! - quit without saving
 :wq! - quit and save
+
+USER ACCOUNT MANAGEMENT:
