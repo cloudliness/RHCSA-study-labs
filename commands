@@ -28,3 +28,9 @@ useradd
 groupadd
 userdel
 groupdel
+
+history - shows history of your previous commands
+when your history shows up, use "!18" to select it
+
+wc - word count
+wc /etc/passwd
