@@ -41,3 +41,6 @@ ctrl + E - goes to end of terminal line
 ctrl + left or right arrow - will allow you to skip words in your terminal
 ctrl + k - deletes from cursor to end
 ctrl + u - deletes from curso to the beginning
+
+to clear screen:
+clear or ctrl + l
